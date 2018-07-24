@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Go Blockchain
 
 Official golang implementation of the Blockchain protocol.
@@ -309,3 +310,7 @@ included in our repository in the `COPYING.LESSER` file.
 The go-blockchain binaries (i.e. all code inside of the `cmd` directory) is licensed under the
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), also included
 in our repository in the `COPYING` file.
+=======
+# netchain
+netchian block chain project source code
+>>>>>>> 7e76a94215f39effa5547b516f760f9c21b6f41e
